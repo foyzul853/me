@@ -58,7 +58,7 @@ body {
   }
   
   .profile-image {
-    width: 150px;
+    width: 250px;
     height: 150px;
     border-radius: 50%; /* Makes the image circular */
   }
